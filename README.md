@@ -20,6 +20,6 @@ This project displays three pricing plans — **Basic, Standard, and Premium**, 
 - Google Fonts
 
 ## Demo
-
+https://wasim2934.github.io/Pricing-Cards-UI/
 
 
